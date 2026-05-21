@@ -1,0 +1,9 @@
+id,name,email,memberType,booksRead,points,preferredGenre
+1,Bijaya Sharma,bijaya@gmail.com,premium,9,100,Horror
+2,Adesh Pokhrel,adesh@gmail.com,standard,2,35,fiction
+3,Parisha Katwal,parisha@yahoo.com,standard,2,15,fiction
+4,Deepace Khadka,deepace@fb.com,standard,3,15,science
+5,Samir Bhandari,samir@hotmail.com,premium,5,40,mystery
+6,Balen Shah,balen4pm@gmail.com,premium,10,110,science
+7,Narendra Modi,narendra@yahaoo.com,standard,5,50,fiction
+8,Donald Trump,donald@gmail.com,standard,5,60,science
